@@ -1,3 +1,4 @@
+#-- coding: utf-8 --
 def import_matrix():
     with open('Панин Дмитрий Васильевич_У-232_vvod2.txt', 'r') as file:
         txt = file.readlines()
